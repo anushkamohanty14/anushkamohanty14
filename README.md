@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Anushka Mohanty 👋</h1>
-<p><em>B.Tech CSE (Final Year) · Mahindra University, Hyderabad</em></p>
+<p><em>B.Tech CSE (Third Year) · Mahindra University, Hyderabad</em></p>
 <p>
   I build end-to-end systems across <strong>machine learning</strong>, <strong>behavioural science</strong>, and <strong>network simulation</strong> — from raw data pipelines to deployed products. My work spans multimodal deep learning, NLP, and applied AI research.
 </p>
